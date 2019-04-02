@@ -8,6 +8,8 @@
 
 `npm install`
 
+config */back-vue/db/db.js*
+
 `node app`
 
 http://localhost:9527
